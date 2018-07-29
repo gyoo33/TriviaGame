@@ -2,6 +2,7 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin-top: 20px;
     margin-bottom: 20px;
+    text-align: center;
 }
 
 .container {
@@ -13,5 +14,14 @@ body {
 }
 
 #title {
-    padding-bottom: 20px;
+    padding-bottom: 30px;
+}
+
+#doneButton {
+    margin: 20px;
+}
+
+h3 {
+    padding-left: 10px;
+    padding-right: 10px;
 }
